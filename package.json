@@ -1,0 +1,42 @@
+{
+  "name": "cabforce-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "material-ui": "^0.20.0",
+    "raven-js": "^3.20.1",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5",
+    "react-collapsible": "^2.0.3",
+    "react-device-detect": "^0.1.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.4.1",
+    "react-google-maps": "^9.4.3",
+    "react-icons": "^2.2.7",
+    "react-localization": "^0.1.6",
+    "react-lottie": "^1.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-sidebar": "^2.3.2",
+    "react-tap-event-plugin": "^3.0.2",
+    "react-typist": "^2.0.4",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-loop": "git+ssh://git@stash.cabforce.com:7999/cod/redux-loop#cod",
+    "redux-promise": "^0.5.3",
+    "redux-storage": "^4.1.2",
+    "redux-storage-decorator-filter": "^1.1.8",
+    "redux-storage-decorator-migrate": "^1.1.0",
+    "redux-storage-engine-localstorage": "^1.1.4",
+    "redux-thunk": "^2.2.0",
+    "sweetalert": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

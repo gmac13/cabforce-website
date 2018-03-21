@@ -1,0 +1,118 @@
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
+.AppFont{
+  font-family: Product Sans;
+}
+
+.Container {
+  width: 75vw;
+  height: 100%;
+  align-self: center;
+  display: flex;
+}
+
+.HeaderTitle {
+  flex: 0.8;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.TitleText {
+  margin-left: 5%;
+  color: white;
+}
+
+.NavBar {
+  flex: 0.2;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.HomeProfile {
+  display: flex;
+  flex-direction: row;
+}
+
+.HomeText {
+  padding: 12.5px;
+  color: white;
+  cursor: pointer;
+}
+
+.ProfileText {
+  padding: 12.5px;
+  color: white;
+  cursor: pointer;
+}
+
+.flexMenu {
+  margin-top: 2%;
+  flex: 0.13;
+
+  display: flex;
+}
+
+.flexTemp {
+  flex: 0.25;
+
+  text-align: center;
+  align-self: center;
+}
+
+.flexSpace {
+  flex: 0.45;
+}
+
+.menuItems {
+  flex: 0.08;
+  margin-left: 1%;
+  text-align: center;
+  align-self: center;
+  cursor: pointer;
+  color: grey;
+  font-size: calc(12px + 1vw);
+}
+
+.line {
+  margin-top: 1%;
+  height: 0.15vh;
+  width: 100vw;
+  background-color: yellowgreen;
+}
+
+.span {
+  opacity: 0.5;
+}
+
+.theFooter {
+  margin-bottom: 0;
+  width:100vw;
+  height: 10vh;
+  background-color: #193949;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerDiv{
+  display: flex;
+  justify-content: center;
+  color: white;
+  flex-direction: row;
+  font-size: 1.8vw;
+  opacity: .7
+}
+
+.MobileHeader {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}

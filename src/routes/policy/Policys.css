@@ -1,0 +1,99 @@
+.privatePolicyDiv{
+    margin-top: 3ch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column
+}
+
+.privatePolicyText{
+    margin-left: 10%;
+    margin-right: 10%;
+  
+}
+
+.PolicyDiv{
+    display: flex;
+    flex-direction: column;
+    padding:2%;
+    
+}
+
+.privatePolicyText1{
+    
+    margin-top: 3vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left
+ 
+}
+
+.privacyPolicyHeading{
+    font-size: calc(14px + 1vw);
+    font-weight: bold;
+    color: #58a73b;
+}
+
+.subHeadingPolicy{
+    font-size: calc(10px + .7vw);
+    font-weight: bold;
+    color: #58a73b;
+    text-align: left;
+    margin-top: 1vh;
+}
+.subHeadingCookie{
+    font-size: calc(10px + .7vw);
+    font-weight: bold;
+    color: #58a73b;
+    text-align: left;
+    margin-top: 3vh;
+}
+
+.smallHeadingCookie{
+    font-size: calc(6px + .7vw);
+    font-weight: bold;
+    color: #58a73b;
+    text-align: left;
+    margin-top: 3vh;
+}
+
+.columnLeft{
+display: flex;
+flex-direction: column;
+text-align: left;
+}
+
+.okTable{
+    border-spacing: 5px;
+    border:1px solid black;
+    font-size: calc(5px + .6vw);
+    text-align: left;
+}
+
+.internetProviders{
+    padding:1%;
+    font-size: calc(5px + .6vw);
+}
+
+.theBoldText{
+    font-weight: 'bolder';
+     color: #000000;
+}
+
+.divText{
+    margin-top: 3vh;
+    font-size: calc(5px + .6vw);
+}
+
+.divText1{
+    margin-top: 2vh;
+    font-size: calc(5px + .6vw);
+}
+
+.divTextNoMargin{
+    font-size: calc(5px + .6vw);
+}
+
+.tables{
+    width:60%
+}

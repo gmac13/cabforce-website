@@ -1,0 +1,53 @@
+.HomeDiv{
+  display: flex;
+  flex-direction: column;
+}
+
+.SearchDiv {
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #58a73b;
+  width: 100%;
+  justify-content: center;
+  padding: 2.5%;
+  height: 10vw;
+  max-height: 100px;
+}
+
+.SearchDiv2 {
+  margin-top: 2%;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  padding: 2.5%;
+}
+
+.SearchText {
+  font-size: calc(12px + 1vw);
+  margin-right: 2.5%;
+  color: white
+}
+
+.SearchText2 {
+  font-size: calc(12px + 1vw);
+  margin-right: 2.5%;
+}
+
+.SearchBar {
+  height: 5vw;
+  width: 45vw;
+  font-size: calc(12px + 1vw);
+  min-height: 30px;
+  max-height: 75px
+}
+
+.QuestionsSection {
+  align-self: center;
+  width: 85%;
+  max-width: 1500px;
+}

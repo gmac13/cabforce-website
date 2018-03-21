@@ -1,0 +1,64 @@
+.Sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.SidebarIconDiv {
+    display: flex;
+    flex: .10;
+    background: #FFFFFF;
+    align-items: center;
+    justify-content: center;
+}
+
+.SidebarHomeDiv {
+    display: flex;
+    flex: .33;
+    font-size: 7vw;
+    color: #FFFFFF;;
+    border-bottom: 1px solid #FFFFFF;;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw
+}
+
+.SidebarProfileDiv {
+    display: flex;
+    flex: .33;
+    font-size: 7vw;
+    color: #FFFFFF;;
+    border-bottom: 1px solid #FFFFFF;;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw
+}
+
+.SidebarLoginDiv {
+    display: flex;
+    flex: .33;
+    font-size: 7vw;
+    color: #FFFFFF;;
+    border-bottom: 1px solid #FFFFFF;;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw
+}
+
+.SidebarListDiv {
+    flex: .50;
+    display: flex;
+}
+
+.SidebarList {
+   height: 50vw;
+   width: 100%;
+}
+
+.SidebarSlogan {
+    flex: 0.4;
+    color: #58a73b;
+    font-size: 5vw;
+    text-align: center;
+}

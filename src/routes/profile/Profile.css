@@ -1,0 +1,157 @@
+.ProfileDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50vw;
+  min-width: 250px;
+  max-width: 750px;
+  border: 1px solid #f0f0f0;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+
+.ProfileName {
+  display: flex;
+  flex-direction: row;
+  font-size: calc(15px + 1vw);
+  justify-content: center;
+}
+
+.ProfileName2 {
+  display: flex;
+  flex-direction: row;
+  font-size: calc(15px + 1vw);
+  justify-content: center;
+  width: 50vw;
+}
+
+.MobileForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ProfileEmail {
+  margin-top: 1%;
+  font-size: calc(12px + 1vw);
+}
+
+.ProfileNumber {
+  margin-top: 3%;
+  font-size: calc(12px + 1vw);
+}
+
+.ChangePasswordDiv {
+  border-top: 1px solid #f0f0f0;
+  padding: 1.5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5%;
+  cursor: pointer;
+}
+
+.ChangePasswordDiv:hover {
+  border-top: 1px solid #f0f0f0;
+  padding: 1.5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5%;
+  cursor: pointer;
+  background: #f0f0f0;
+  
+}
+
+.ChangePasswordFormDiv {
+  border-top: 1px solid #f0f0f0;
+  padding: 1.5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5%;
+}
+
+.ChangePasswordButtonText {
+  font-size: calc(12px + 1vw);
+}
+
+.PasswordChevronDiv {
+}
+
+.Profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.PageTitle {
+  font-size: calc(22px + 1vw);
+}
+
+.ChangePasswordForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.ChangePasswordButton {
+  border-color: #58a73b;
+  border-radius: 15px;
+  padding: 5px;
+  color: #58a73b;
+  font-size: 15px;
+  width: 150px;
+  background-color: white;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.ChangePasswordButtonDiv {
+}
+
+.EditButtonDiv {
+  margin-left: 85%;
+  color: #58a73b;
+  cursor: pointer;
+}
+
+.SloganDiv {
+  margin-top: 5%;
+  font-size: 30px;
+  color: #58a73b;
+}
+
+.ProfileSubDiv {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.ShadowView4 {
+  border-radius: 10px;
+  margin-top: 2.5%;
+  background: white;
+  box-shadow: 1px 1px 1px 1px #b8b7b7;
+  flex-direction: column;
+  display: flex;
+  min-width: 300px;
+  width:60%;
+  margin:0 auto;
+  margin-top: 3vh
+}
+
+.Touch1 {
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.GetHelpLink{
+cursor: pointer;
+}

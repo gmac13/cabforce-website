@@ -1,0 +1,22 @@
+{
+        "serverUrl": "https://cod-dev-main.cartrawler.mobi:9000",
+        "websocketUrl": "wss://cod-dev-main.cartrawler.mobi:9000/od/websocket/v1/order/",
+        "environment": "DEV",
+        "version": "1.0A14",
+        "partner": "RENFE",
+        "statusRequestInterval": 10000,
+        "fleetRefreshInterval": 15000,
+        "enableWebSockets": true,
+        "paymentDetailsFormUrl": "https://external-dev.cartrawler.com/cartrawlerpay/paymenttokenform",
+        "enableNotifications": true,
+        "enableSplitPayment": false,
+        "enableSideMenu": true,
+        "enableDebugOverlay": true,
+        "sentryUrl":
+          "https://d8b14d57cac24b42b9ba41b86756568b:bce60894b48043c8985336f6dafa1d6c@sentry.io/222142",
+        "partnerPointsCacheMaxAge": 0,
+        "termsAndConditionsVersion": "1.0",
+        "termsAndConditionsUrl": "https://cod-dev-main.cartrawler.mobi:9000/od/v1/legal/terms",
+        "licenseUrl": "https://cod-dev-main.cartrawler.mobi:9000/od/v1/legal/license"
+}
+

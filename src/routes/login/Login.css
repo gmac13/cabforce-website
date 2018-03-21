@@ -1,0 +1,211 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 1450px;
+  height: 400px;
+}
+
+.App-header {
+}
+
+.header {
+  height: 10vh;
+  color: white;
+  width: 100vh;
+}
+
+.text {
+  color: white;
+}
+
+.button {
+  margin-left: 60px;
+}
+
+.App-title {
+  margin: 0 auto;
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.hello {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100vh;
+  width: 100%;
+  background: white;
+}
+.heading {
+  color: white;
+  font-size: 3.5em;
+  padding-top: 10vh;
+  font-weight: 600;
+}
+
+.heading1 {
+  padding-top: 2vh;
+  color: white;
+  opacity: 0.6;
+}
+.input {
+  margin-top: 6vh;
+  width: 26vh;
+  height: 5vh;
+}
+
+.input1 {
+  margin-top: 3vh;
+  width: 26vh;
+  height: 5vh;
+}
+
+.test {
+  padding-top: 10vh;
+  background: red;
+}
+
+.text {
+  background-color: grey;
+}
+
+.views {
+  margin: 0 auto;
+  display: "flex";
+  background: white;
+  height: 45%;
+  width: 82%;
+  margin-top: 20%;
+  border-radius: 12px;
+  border-color: grey;
+  border-width: 1;
+  text-align: center;
+  box-shadow: 0.5px 0.5px 0.8px 0.8px #9b9b9b;
+  text-align: center;
+}
+
+.button {
+  margin: 0 auto;
+  border-radius: 16px;
+  width: 40%;
+  height: 5vh;
+  margin-top: 7vh;
+  margin-bottom: 2vh;
+  background: #97d35a;
+  color: white;
+}
+
+.ltd {
+  margin-top: 20%;
+}
+
+
+.title {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.div {
+  text-align: center;
+}
+
+.testing {
+  height: 70vh;
+  width: 60vw;
+  background: green;
+  background-color: yellow;
+}
+
+.abc {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.border {
+  background-color: white;
+  margin: 0 auto;
+  display: flex;
+  height: 90%;
+  width: 94%;
+  margin-top: 3%;
+  border-width: 2%;
+  border-radius: 10px;
+  box-shadow: 0.25px 0.25px 0.5px 0.5px #9b9b9b;
+  margin-bottom: 6%;
+}
+
+.ChangePasswordButton1{
+  margin-top: 10%;
+  margin-bottom: 2%;
+  border-color: #58a73b;;
+  border-radius: 15px;
+  padding: 5px;
+  background-color: white;
+  color: #58a73b;;
+  font-size: 15px;
+  width: 50%;
+  height: 5%;
+}
+
+.SearchDiv3 {
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #58a73b;
+  width: 100%;
+  justify-content: center;
+  padding: 2.5%;
+  height: 10vw;
+  max-height: 100px;
+  color: white;
+  font-size: calc(22px + 1vw);
+}
+
+
+.loginDiv{
+ height: 79.5vh;
+ width:100vw;
+ display: flex;
+ justify-content: center;
+}
+
+.loginHeader{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: 0.25px 0.25px 0.5px 0.5px #9b9b9b;
+  height: 52%;
+  width:30%;
+  min-width: 180px;
+  align-self: center;
+  display: flex;
+}
+
+.loginBackground{
+  background-color: green;
+  height:20%;
+  width:100%;
+  text-align: center;
+  
+}
+
+.loginTextHeading{
+  font-size: calc(13px + 1vw);
+  margin-top: 3%;
+  color: white;
+}
+
+
+

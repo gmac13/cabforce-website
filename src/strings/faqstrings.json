@@ -1,0 +1,316 @@
+{
+  
+    "topics": "Topics",
+    "helpTitle": "Need More Help?",
+    "emailTitle": "Send us a message",
+    "name": "Name",
+    "email": "Email Address",
+    "leaveUsAQuestion": "Leave us a question",
+    "reportYourIssue": "Report your issue",
+
+    "paymentQueries": {
+      "title": "Payment Queries",
+ 
+      "paymentMethods": "Payment Methods",
+      "howDoIPayQ": "How do I pay?",
+      "howDoIPayA":
+        "Payment is simple and straightforward. We operate a cashless system; therefore, all payments are taken via credit/debit card automatically after your taxi ride is complete. All you need to do is register the card you wish to pay with.",
+      "isCashEverAcceptedQ": "Is cash ever accepted?",
+      "isCashEverAcceptedA":
+        "No. We operate a cashless system, cash payment is never accepted for the taxi fare.",
+      "canIPayWithPaypalQ": "Can I pay with PayPal?",
+      "canIPayWithPaypalA":
+        "No. In order to proceed with using our service you will need to enter your credit/debit card details as your payment method. We can assure you that your payment information is completely safe and secure, if you’d like to read more please see ‘Is my payment information safe?’",
+      "isMyPaymentInformationSafeQ": "Is my payment information safe?",
+      "isMyPaymentInformationSafeA":
+        "Yes, all payment information goes through a secure environment. Furthermore we do not store and payment information. We are PCI DSS certified as a Level One Service Provider and all transactions are securely processed through Realex Payments and JP Morgan Chase Payments.",
+      "imHavingDifficultyRegisteringMyCreditCardQ":
+        "I’m having difficulty registering my credit card",
+      "imHavingDifficultyRegisteringMyCreditCardA":
+        "If any digits are entered incorrectly the system may show an error. In this case we recommend that you review the card details you have entered to ensure that they are the correct ones, this includes the card number, the CVV code and the expiry date. If the problem persists we recommend that you contact your card provider to make sure everything is in order.",
+      "howDoIChangeMyRegisteredPaymentMethodQ": "How do I change my registered payment method?",
+      "howDoIChangeMyRegisteredPaymentMethodA":
+        "If you wish to change your registered payment method please follow the following steps:\n\n1) Select ‘Payment Options’ in menu.\n\n2) Select ‘Add Credit Card’.\n\n3) Update your card details in the form.\n\n4) Press ‘Update Card Details’.\n\n5) Return to ‘Booking View’.",
+      "whyWasMyPaymentDeclinedQ": "Why was my payment declined?",
+      "whyWasMyPaymentDeclinedA":
+        "Your payment may have been declined for various reasons:\n\n- Perhaps you have entered the incorrect card details. We recommend that you check the card numbers entered are correct, this can be checked in your profile.\n\n- If your card has expired you will need to update your card details. If you have recently reported your card as lost/stolen, then your bank may be preventing payments being taken. In this case you will need to contact your bank to resolve the issue.\n\n- If the charge exceeds your current balance, then payment will be declined.\n\n- If you are blacklisted in our system because you failed to pay for a previous trip, you will not be able to make a new trip, therefore payment will be declined.",
+      "iHaveADifferentPaymentQueryQ": "I have a different payment query",
+      "iHaveADifferentPaymentQueryA":
+        "If you have another question related to payment that we have not addressed above, please let us know more here and we’ll look into this for you.",
+
+      "unknownCharges": "Unknown Charges",
+      "IDontUnderstandMyFinalBillQ": "I don’t understand my final bill",
+      "IDontUnderstandMyFinalBillA":
+        "Your final fare is calculated based on the time and distance taken to get you to your destination. Sometimes factors such as traffic and diversions which are outside of our control can result in a longer trajectory, therefore causing a higher fare. Your fare breakdown can be found on your receipt, if you feel there is an incorrect charge please fill out the form below and we’ll review this for you.",
+      "whyWasIChargedForTollsQ": "Why was I charged for tolls?",
+      "whyWasIChargedForTollsA":
+        "Any applicable toll fees are automatically added to your final fare should your driver pass through a toll station. The respective amounts will be clearly shown on your final receipt. Please note that we are not in a position to refund toll charges.",
+      "iHaveADuplicateChargeQ": "I have a duplicate charge?",
+      "iHaveADuplicateChargeA":
+        "If you appear to have a duplicate charge on your final account we recommend that you check if the charge is related to any applicable surcharges such as tolls/cleaning, this can be checked on your receipt. Also, you can check if the charge is related to another past booking, you can check your ‘booking history’ to confirm this. If you’re still unsure as to the origin of the duplicate charge, please confirm the amounts and dates of the charges in question and we’ll review this for you.",
+      "whyDoIHaveaPendingChargeQ": "Why do I have a pending charge?",
+      "whyDoIHaveaPendingChargeA":
+        "If you notice a pending charge from us on your account this would be in the form of a temporary hold as you have an outstanding balance which you owe us. Please note you are unable to hail taxis if you have an outstanding balance.",
+      "whyWasIChargedACancellationFeeQ": "Why was I charged a cancellation fee?",
+      "whyWasIChargedACancellationFeeA":
+        "If you cancel outside of your cancellation policy the relevant cancellation fee will apply. If you are unsure of your cancellation policy, you can check it here. Please note that cancellation fees are non-refundable.",
+    
+      "promos": "Promos",
+      "howDoesRenfeMilesWorkQ": "How does ‘Renfe Miles’ work?",
+      "howDoesRenfeMilesWorkA":
+        "Everytime you ride with Renfe you accumulate +Renfe points for your journey, these can be used to pay for taxi rides as an alternative to paying with your credit card. Please note that you are still required to enter your credit card details in order to proceed with using the app.",
+      "howDoIPayWithMyRenfeMilesQ": "How do I pay with my ‘Renfe Miles’?",
+      "howDoIPayWithMyRenfeMilesA":
+        "Once your journey is finished you will be prompted to make payment. If your +Renfe points balance is high enough you may pay with that, however if you would prefer to pay by card you can do so by switching to this payment option.",
+      "whereCanIViewMyRenfeMilesBalanceQ": "Where can I view my ‘Renfe Miles’ balance?",
+      "whereCanIViewMyRenfeMilesBalanceA":
+        "When you first download the app you can log in to your +Renfe programme, if at any stage you would like to check your balance you can do so"
+    },
+   
+    "accountSettings": {
+      "title": "Account Settings",
+
+      "settingUpAnAccount": "Setting up an account",
+      "howDoWeWorkQ": "How do we work?",
+      "howDoWeWorkA":
+        "We offer you the possibility of hailing a taxi, any time, any place, anywhere by connecting you with our drivers via the smartphone app. We work with many different suppliers in order to provide you with the most suitable type of taxi and a seamless and secure service. Once an available taxi is confirmed you will be notified of the driver’s name and registration plate, this allows you to easily identify your taxi. We also provide you with their estimated time of arrival. When your trip comes to an end you do not need to pay the driver any cash as we will charge your registered payment method automatically. After you pay, you will be asked to rate your trip. We’ll use this feedback to ensure we consistently deliver a great service.",
+      "howDoISetUpAnAccountQ": "How do I set up an account?",
+      "howDoISetUpAnAccountA":
+        "In order to set up an account you will need to firstly download the free app from the app store. Once it is installed on your phone, click ‘sign up’ and follow the steps that are prompted on screen such as entering your phone number etc. This is a straightforward process which will guide you through the account set up.",
+      "addingPaymentMethodsQ": "Adding payment methods",
+      "addingPaymentMethodsA":
+        "Both debit and credit card are accepted as methods of payment. If you wish to register payment details please follow the steps below:\n\n1) Select ‘Payment Options’ in menu.\n\n2) Select ‘Add Credit Card’.\n\n3) Enter your card details in the form.\n\n4) Confirm your card details are correct.\n\n5) Return to ‘Booking View’.",
+
+      "updatingAccountInformation": "Updating account information",
+      "howDoIUpdateMyMobileNumberAndEmailAddressQ":
+        "How do I update my mobile number and email address?",
+      "howDoIUpdateMyMobileNumberAndEmailAddressA":
+        "If you wish to change your email address you can do so on your profile. Just go to your profile and click on your email address to change/edit it. It is unfortunately not possible to change your mobile number.",
+      "howDoIManageEmailsSMSAndPushNotificationsQ":
+        "How do I manage emails, SMS and push notifications?",
+      "howDoIManageEmailsSMSAndPushNotificationsA": "", 
+      "howDoIChangeMyRegisteredPaymentDetailsQ": "How do I change my registered payment details?",
+      "howDoIChangeMyRegisteredPaymentDetailsA":
+        "If you wish to change your registered payment method please follow the following steps:\n\n1) Select ‘Payment Options’ in menu.\n\n2) Select ‘Add Credit Card’.\n\n3) Update your card details in the form.\n\n4) Press ‘Update Card Details’.\n\n5) Return to ‘Booking View’.",
+
+      "accountIssues": "Account Issues",
+      "iCantLogOnToMyAccountQ": "I can’t log on to my account",
+      "iCantLogOnToMyAccountA":
+        "There are a few different reasons why you may not be able to log into your account. Perhaps you forgot your password, in which case click here for the steps to follow in order to reset it. Or perhaps the details you have entered are incorrect, please make sure both your mobile number and password have been entered correctly. If you have reset your password and are still unable to access your account please let us know about it below.",
+      "iForgotMyPasswordQ": "I forgot my password",
+      "iForgotMyPasswordA":
+        "If you have forgotten your password please follow the steps below:\n\n- Go to ‘Reset Password’ and click here.\n\n- You will be prompted to enter your phone number for security purposes.\n\n- Once you do this an email will be sent to you with a link for resetting your password.\n\n- Follow the link and create a new password.",
+      "thePasswordResetLinkIsNotWorkingQ": "The password reset link is not working",
+      "thePasswordResetLinkIsNotWorkingA":
+        "If you are experiencing issues with the password reset link please contact us on the form below and we will certainly review this for you. Please make sure to include your email address and phone number for verification purposes.",
+      "iCannotVerifyMyPhoneNumberQ": "I cannot verify my phone number",
+      "iCannotVerifyMyPhoneNumberA":
+        "If you’re trying to set up an account and are having difficulty verifying your phone number, we would firstly recommend that you check the phone number you have entered is the correct one. If you are still not receiving the verification code please contact us below and we’ll see what the issue is. Please make sure to include your phone number and email address in the contact form.",
+      "theAppKeepsCrashingOrTheAppWontRespondQ": "The app keeps crashing or the app won’t respond",
+      "theAppKeepsCrashingOrTheAppWontRespondA":
+        "If your app is not responding correctly or if it keeps crashing we recommend you try the suggestions below:\n\n- Make sure your Wi-Fi is turned on and that you’re in a zone with uninterrupted Wi-Fi.\n\n- If you have many other applications open in the background we recommend that you close them. Also close this app and restart it by itself.\n\n- If the app is continuing to experience problems you can uninstall and reinstall the app.",
+      "myAccountWasSuspendedQ": "My account was suspended",
+      "myAccountWasSuspendedA":
+        "If your account was suspended and you wish to regain access please contact us on the form below so that we may look into this for you. Please provide as much detail as possible.",
+ 
+      "other": "Other",
+      "iWantToDeleteMyAccountQ": "I want to delete my account",
+      "iWantToDeleteMyAccountA": "", 
+      "iThinkMyAccountHasBeenHackedQ": "I think my account has been hacked",
+      "iThinkMyAccountHasBeenHackedA":
+        "If you think your account has been hacked, please contact us on the form below providing as much detail as possible so that we may look into this for you.",
+      "iHaveADifferentIssueQ": "I have a different issue",
+      "iHaveADifferentIssueA":
+        "If you have a different issue related to your account which we did not address above, please let us know below what the nature of your query is and we can review this for you."
+    },
+
+    "howWeWork": {
+      "Title": "How we work",
+      "hailingATaxi": "Hailing a taxi",
+      "howDoIHailATaxiQ": "How do I hail a taxi?",
+      "howDoIHailATaxiA":
+        "In order to hail a taxi you will first need to sign up to use the app. Once this has been done hailing a taxi is simple. Upon launching the app you will see that the app automatically searches for taxis which are nearby.",
+      "howDoIPayWithMyRenfeMilesQ": "How do I pay with my ‘Renfe Miles’?",
+      "howDoIPayWithMyRenfeMilesA": "", 
+      "canIHailSeveralTaxisAtOnceQ": "Can I hail several taxis at once?",
+      "canIHailSeveralTaxisAtOnceA":
+        "You can only hail one at a time, if you require another taxi you will need to wait until your current trip ends before you can request one. If the reason you wish to request more than one taxi is because there is a big party, you can request a taxi which fits up to 10 passengers.",
+      "iDontHaveSufficientFundsOnMyRegisteredPaymentMethodToPayQ":
+        "I don’t have sufficient funds on my registered payment method to pay",
+      "iDontHaveSufficientFundsOnMyRegisteredPaymentMethodToPayA":
+        "As we operate a cashless system it will be necessary for you to increase your credit/debit card balance if you wish to request a taxi. Please bear in mind that no cash payments will be accepted for the taxi ride.",
+      "myCurrentLocationIsNotCorrectQ": "My current location is not correct",
+      "myCurrentLocationIsNotCorrectA":
+        "If your current location is not reflecting on the app you can manually enter a pick-up address in the ‘address bar’ of the app, alternatively you can drag the pick-up marker to a new location.",
+      "canIBringMyGuideDogQ": "Can I bring my guide dog?",
+      "canIBringMyGuideDogA": "", 
+      "canIBringSmallPetsQ": "Can I bring small pets?",
+      "canIBringSmallPetsA":
+        "We work with many different providers, as such their policies will differ. If you wish to bring small pets with you we recommend that you contact the driver directly and enquire if this is possible.",
+      "whatIsTheCancellationPolicyQ": "What is the cancellation policy?",
+      "whatIsTheCancellationPolicyA": "",
+      "howWillIKnowItsMyTaxiQ": "How will I know it‘s my taxi?",
+      "howWillIKnowItsMyTaxiA":
+        "Once you request a taxi we show you your driver’s profile (name and registration plate) so you know who to expect. If you believe the driver who showed up was different to the details we gave you, please let us know",
+      "whatDoIDoIfICantFindMyTaxiQ": "What do I do if I can’t find my taxi?",
+      "whatDoIDoIfICantFindMyTaxiA":
+        "If you cannot readily locate the taxi we would recommend that you ring the driver, they will be happy to answer your queries. The driver’s contact details will appear on the screen after you request a taxi.",
+      "whatIfMyTaxiIsLateQ": "What if my taxi is late?",
+      "whatIfMyTaxiIsLateA":
+        "If you’re taxi is running late we recommend that you contact the driver directly. Once you request a taxi the driver’s profile will appear on your screen, this profile shows the contact number.",
+      "whoAreTheDriversQ": "Who are the drivers?",
+      "whoAreTheDriversA":
+        "When you book through us you are guaranteed a safe and secure journey. All of our drivers are screened to ensure that we provide the best service possible.",
+
+      "duringYourTrip": "During your trip",
+      "theDriverIsAskingMeForMoreMoneyQ": "The driver is asking me for more money",
+      "theDriverIsAskingMeForMoreMoneyA":
+        "The driver should not be requesting cash payment. Any applicable charges will be added to your final bill and charged to the credit/debit card registered to your account once you finish your trip.",
+      "doIHaveToLeaveATipQ": "Do I have to leave a tip?",
+      "doIHaveToLeaveATipA":
+        "Leaving a tip is completely your choice but by no means necessary. If you wish to give the driver a tip this is the one occasion where only cash will be accepted by the driver as we do not include any tip in your final bill.",
+
+      "afterYourTrip": "After your trip",
+      "howDoIRateMyTripQ": "How do I rate my trip?",
+      "howDoIRateMyTripA":
+        "Once your journey ends you will be prompted to make payment. After this has been done you will be able to rate your trip out of five stars.",
+      "howDoIGetAReceiptQ": "How do I get a receipt?",
+      "howDoIGetAReceiptA":
+        "We will automatically send you the receipt once your trip ends. This will be sent to the email address registered to your account.",
+      "canITipMyDriverViaTheAppQ": "Can I tip my driver via the app?",
+      "canITipMyDriverViaTheAppA":
+        "If you wish to tip your driver you are unable to do this via the app, as such we would recommend that you give the driver a cash tip should this be the case."
+    },
+    "alerts": {
+      "question": "Question Sent",
+      "message": "Message Sent",
+      "thankyou": "Thank you, we will get back to you soon",
+      "ok": "Ok"
+    },
+  
+
+    "yourJourney": {
+      "iWouldLikeARefund": "I would like a refund",
+      "iPaidMyDriverInCashQ": "I paid my driver in cash",
+      "iPaidMyDriverInCashA":
+        "We operate a cashless system only, therefore your driver should not be requesting cash payments. If there was an issue concerning payments during your trip, please fill out the form below and we’ll be happy to review this for you.",
+      "iWasIncorrectlyChargedACleaningFeeQ": "I was incorrectly charged a cleaning fee",
+      "iWasIncorrectlyChargedACleaningFeeA":
+        "We expect all of our drivers to deliver great service in a clean and comfortable vehicle. If you happen to cause damage to the interior or exterior of the vehicle or any spillages/vomiting occurs, you are responsible for the cleaning costs. Where applicable these fees will be shown on the final receipt. If you feel you have been incorrectly charged a cleaning fee, let us know on the form below and we will review this.",
+      "myDriverTookALongerRouteAndIEndedUpPayingMoreQ":
+        "My driver took a longer route and I ended up paying more",
+      "myDriverTookALongerRouteAndIEndedUpPayingMoreA":
+        "Sometimes roadworks and diversions can result in the driver having to take an alternative route. These factors are outside of our control and as a result we are unable to offer a refund in such instances.",
+      "theTrafficCausedMyFareToBeHigherQ": "The traffic caused my fare to be higher",
+      "theTrafficCausedMyFareToBeHigherA":
+        "Whilst we aim to get you to your required destination as soon as possible, sometimes heavy traffic can result in a longer traveling time. Please bear in mind that external factors such as traffic are outside of our control therefore we are not in a position to reimburse higher fares due to this.",
+      "myTaxiWasLateQ": "My taxi was late",
+      "myTaxiWasLateA":
+        "We are sorry to hear that the taxi was late. There are variable factors that are out of our control, like traffic or diversions due to road construction etc., which can cause delays. In this situation we do not offer compensation.",
+      "somebodyElseTookMyTaxiQ": "Somebody else took my taxi",
+      "somebodyElseTookMyTaxiA":
+        "If you feel that someone else took your taxi, we recommend that you firstly ring the driver to confirm if this is the case. The driver’s contact details will appear on the screen after you request a taxi. If it is the case that someone else did take your taxi, please let us know below so we can see what went wrong.",
+      "myDriverDroppedMeOffAtTheWrongPlaceQ": "My driver dropped me off at the wrong place",
+      "myDriverDroppedMeOffAtTheWrongPlaceA":
+        "If your driver dropped you off at the wrong destination, please let us know below. Please make sure to include the actual drop-off address in the details so that we can review this for you.",
+      "myDriverPickedMeUpAtTheWrongPlaceQ": "My driver picked me up at the wrong place",
+      "myDriverPickedMeUpAtTheWrongPlaceA":
+        "If your driver picked you up at a different place to the requested one, please let us know below. Please make sure to include the actual pick-up address in the details so that we can review this for you.",
+      "myDriverMadeAnUnwantedStopQ": "My driver made an unwanted stop",
+      "myDriverMadeAnUnwantedStopA":
+        "If your driver made unwanted stops during your trip which resulted in a longer travel time and a higher fare, we will happily review this for you. Please fill out the form below providing as much information as possible.",
+      "theTaxiDriverDidNotShowUpQ": "The taxi driver did not show up",
+      "theTaxiDriverDidNotShowUpA":
+        "We always strive to deliver a seamless experience by using the best technology and the best providers, so we are sorry to hear that something went wrong here. If your driver did not show up to collect you, please let us know here.",
+      "iPaidMyDriversTollsParkingFeeQ": "I paid my drivers tolls/parking fee",
+      "iPaidMyDriversTollsParkingFeeA":
+        "These fees, where applicable, are added to your final fare and will show on your receipt. If your driver doubly charged you for these, please let us know.",
+      "iWasNotHappyWithTheServiceProvidedQ": "I was not happy with the service provided",
+      "iWasNotHappyWithTheServiceProvidedA":
+        "Delivering the best service is always our primary focus so we apologize to hear that you did not have a good experience. Please let us know the nature of your experience below and we will investigate this further for you.",
+      "otherIssueWithChargesQ": "Other issue with charges",
+      "otherIssueWithChargesA":
+        "If you had any other issue with charges during or after your trip that we have not addressed above, please provide us with more information below and we will review this for you.",
+
+
+
+      "iLostAnItem": "I lost an item",
+      "iForgotPersonalBelongingsQ": "I forgot personal belongings in the car. How do I get them?",
+      "iForgotPersonalBelongingsA":
+        "We recommend that you contact the driver directly in order to quickly recover your lost item. The driver’s contact details can be found in your ‘booking history’.",
+      "iCannotGetThroughToTheDriverQ": "I cannot get through to the driver",
+      "iCannotGetThroughToTheDriverA":
+        "If you’re experiencing problems contacting the driver we’ll certainly assist. Please provide as much detail as possible below and we’ll look into this for you. However, please note that we cannot guarantee that the driver will have your lost item.",
+
+
+
+      "myDriverWasNotProfessional": "My driver was not professional",
+      "thereWasAnIssueDuringPickupQ": "There was an issue during pick-up",
+      "thereWasAnIssueDuringPickupA":
+        "If there was an issue with your pick-up, such as difficulty contacting your driver or your driver was late or did not show, please let us know.",
+      "myDriverWasImpoliteQ": "My driver was impolite",
+      "myDriverWasImpoliteA":
+        "Our main goal is to ensure that you have a relaxing and pleasant trip, therefore we expect all our drivers to conduct themselves in a respectful and professional manner. If you feel that your driver did not meet these expectations please let us know by filling out the form below so that we can investigate this.",
+      "myDriverRefusedToDropMeOffAtMyRequestedDestinationQ":
+        "My driver refused to drop me off at my requested destination",
+      "myDriverRefusedToDropMeOffAtMyRequestedDestinationA":
+        "Your intended route will be visible to your driver however it is recommended that you confirm your final destination with them prior to setting off. If your driver would not drop you off at your requested destination, please let us know by filling out the form below.",
+      "myDriverDidNotMatchTheDetailsOnTheAppQ": "My driver did not match the details on the app",
+      "myDriverDidNotMatchTheDetailsOnTheAppA":
+        "Once you request a taxi we show you your driver’s profile (name and registration plate) so you know who to expect. If you believe the driver who showed up was different to the details we gave you, please let us know.",
+      "iDidNotFeelSafeWithMyDriverQ": "I did not feel safe with my driver",
+      "iDidNotFeelSafeWithMyDriverA":
+        "Your safety is what matters most. If at any point during your trip you felt unsafe, please let us know below and we will investigate this for you. Please make sure to provide as much detail as possible.",
+      "iFeelThatMyDriverDroveInAPerilousMannerQ":
+        "I feel that my driver drove in a perilous manner",
+      "iFeelThatMyDriverDroveInAPerilousMannerA":
+        "Your safety is our primary concern. If you feel that your driver drove in an unsafe manner, please let us know here.",
+      "iHadADifferentIssueWithMyDriverQ": "I had a different issue with my driver",
+      "iHadADifferentIssueWithMyDriverA":
+        "If you experienced a different issue with your driver than those listed above, please let us know here.",
+
+
+
+      "theVehicleWasNotWhatIRequested": "The vehicle was not what I requested",
+      "theVehicleWasNotInGoodConditionQ": "The vehicle was not in good condition",
+      "theVehicleWasNotInGoodConditionA":
+        "We always strive to deliver an exceptional service and therefore we expect all our drivers to keep their car in great condition. If you feel that your driver’s car was unsatisfactory, please fill out the form below explaining why and we’ll review this for you.",
+      "theVehicleWasNotRoadworthyQ": "The vehicle was not roadworthy",
+      "theVehicleWasNotRoadworthyA":
+        "Your safety is our main concern. If you feel that the vehicle which arrived to collect you was unroadworthy, please provide as much detail as possible in the form below and we will investigate this on your behalf.",
+      "fewerSeatsThanIRequestedQ": "The vehicle had fewer seats than I requested",
+      "fewerSeatsThanIRequestedA":
+        "If the vehicle which arrives to collect you has a smaller passenger/luggage capacity than what you booked and you were unable to take the trip as a result, please let us know by filling out the form below.",
+      "differentToWhatIRequestedQ": "The vehicle was different to what I requested",
+      "differentToWhatIRequestedA":
+        "We are unable to guarantee a specific make or model due to the size of our fleet, however the vehicle which arrived to collect you should be similar to the vehicle category you selected whilst requesting the taxi. If the wrong vehicle category showed up and you could not take your trip as a result, please let us know by filling out the form below.",
+      "differentRegistrationPlateQ": "My driver’s vehicle had a different registration plate",
+      "differentRegistrationPlateA":
+        "Once you request a taxi we show you your driver’s profile (name and registration plate) so you know who to expect. If you believe the driver who showed up was different to the details we gave you, please let us know.",
+
+   
+
+      "iWasInvolvedInAnAccident": "I was involved in an accident",
+      "reportAnAccidentQ": "I want to report an accident",
+      "reportAnAccidentA":
+        "Your safety is what's important to us and if you were involved in an accident we are here to support you. First and foremost please make sure that everyone involved is safe, also, if necessary, please inform the local authorities. Please provide us with as much detail as possible and we will contact you in due course.",
+
+     
+
+      "other": "Other",
+      "howDoIRateMyTripQ": "How do I rate my trip?",
+      "howDoIRateMyTripA":
+        "Once your journey ends you will be prompted to make payment. After this has been done you will be able to rate your trip out of five stars.",
+      "changeTheTripsRatingQ": "Can I change the trip’s rating?",
+      "changeTheTripsRatingA":
+        "Unfortunately you are unable to change the trip rating at a later stage. If you wish to give us further feedback you can do so here.",
+      "getAReceiptForMyTripQ": "How do I get a receipt for my trip?",
+      "getAReceiptForMyTripA":
+        "Once your trip ends we will automatically send you your receipt. This will be sent to the email address associated with your account",
+      "notReceivedMyReceiptQ": "I have not received my receipt",
+      "notReceivedMyReceiptA":
+        "If you have not received your receipt, please check your spam folder. Also, please make sure the email address we have on file for you is the correct one. You can review your email address in your profile."
+    }
+  }
+
+  
